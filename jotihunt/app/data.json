@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "header": "Alpha Area Photography Assignment",
+    "type": "opdracht",
+    "status": "In Progress",
+    "reviewer": "Emma van der Berg"
+  },
+  {
+    "id": 2,
+    "header": "Weather Update for All Areas",
+    "type": "news",
+    "status": "Done",
+    "reviewer": "Lars Hendriksen"
+  },
+  {
+    "id": 3,
+    "header": "Hidden Cache Location Clue",
+    "type": "hint",
+    "status": "In Progress",
+    "reviewer": "Sophie de Vries"
+  },
+  {
+    "id": 4,
+    "header": "Bravo Team Communication Check",
+    "type": "opdracht",
+    "status": "Done",
+    "reviewer": "Daan Jansen"
+  },
+  {
+    "id": 5,
+    "header": "Important Safety Announcement",
+    "type": "news",
+    "status": "In Progress",
+    "reviewer": "Lotte Smit"
+  },
+  {
+    "id": 6,
+    "header": "Charlie Area Secret Code",
+    "type": "hint",
+    "status": "In Progress",
+    "reviewer": "Finn van der Meer"
+  },
+  {
+    "id": 7,
+    "header": "Emergency Procedure Update",
+    "type": "news",
+    "status": "Done",
+    "reviewer": "Noa Bakker"
+  },
+  {
+    "id": 8,
+    "header": "Delta Navigation Challenge",
+    "type": "opdracht",
+    "status": "In Progress",
+    "reviewer": "Thijs de Jong"
+  },
+  {
+    "id": 9,
+    "header": "Hidden Message Decoder",
+    "type": "hint",
+    "status": "Done",
+    "reviewer": "Isa Verschuur"
+  },
+  {
+    "id": 10,
+    "header": "Echo Team Building Exercise",
+    "type": "opdracht",
+    "status": "In Progress",
+    "reviewer": "Sem van Leeuwen"
+  },
+  {
+    "id": 11,
+    "header": "Game Rules Clarification",
+    "type": "news",
+    "status": "Done",
+    "reviewer": "Mila Koning"
+  },
+  {
+    "id": 12,
+    "header": "Foxtrot Survival Clue",
+    "type": "hint",
+    "status": "In Progress",
+    "reviewer": "Bram Peters"
+  },
+  {
+    "id": 13,
+    "header": "Alpha Radio Communication Task",
+    "type": "opdracht",
+    "status": "Done",
+    "reviewer": "Zoe van Dam"
+  },
+  {
+    "id": 14,
+    "header": "Weather Warning Alert",
+    "type": "news",
+    "status": "In Progress",
+    "reviewer": "Jesse Mulder"
+  },
+  {
+    "id": 15,
+    "header": "Bravo Area Mystery Location",
+    "type": "hint",
+    "status": "Done",
+    "reviewer": "Roos de Boer"
+  },
+  {
+    "id": 16,
+    "header": "Charlie Photo Documentation",
+    "type": "opdracht",
+    "status": "In Progress",
+    "reviewer": "Max van der Laan"
+  },
+  {
+    "id": 17,
+    "header": "Scoring System Update",
+    "type": "news",
+    "status": "Done",
+    "reviewer": "Luna Jacobs"
+  },
+  {
+    "id": 18,
+    "header": "Delta Technology Challenge Hint",
+    "type": "hint",
+    "status": "In Progress",
+    "reviewer": "Niels Willems"
+  },
+  {
+    "id": 19,
+    "header": "Echo Cooking Assignment",
+    "type": "opdracht",
+    "status": "Done",
+    "reviewer": "Julia van Dijk"
+  },
+  {
+    "id": 20,
+    "header": "End of Day Summary",
+    "type": "news",
+    "status": "In Progress",
+    "reviewer": "Tom Visser"
+  },
+  {
+    "id": 21,
+    "header": "Foxtrot Water Challenge Clue",
+    "type": "hint",
+    "status": "In Progress",
+    "reviewer": "Eva de Wit"
+  },
+  {
+    "id": 22,
+    "header": "Alpha Creative Arts Task",
+    "type": "opdracht",
+    "status": "Done",
+    "reviewer": "Jasper Hoekstra"
+  },
+  {
+    "id": 23,
+    "header": "Equipment Check Reminder",
+    "type": "news",
+    "status": "In Progress",
+    "reviewer": "Saar van der Berg"
+  },
+  {
+    "id": 24,
+    "header": "Bravo Environmental Puzzle",
+    "type": "hint",
+    "status": "Done",
+    "reviewer": "Koen Brouwer"
+  },
+  {
+    "id": 25,
+    "header": "Charlie Leadership Challenge",
+    "type": "opdracht",
+    "status": "In Progress",
+    "reviewer": "Fleur Dijkstra"
+  }
+]
