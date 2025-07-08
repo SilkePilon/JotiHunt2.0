@@ -1,4 +1,7 @@
-import { IconTrendingDown, IconTrendingUp } from "@tabler/icons-react"
+"use client"
+
+import { useEffect, useState } from "react"
+import { IconMapPin, IconUsers, IconFileText, IconClock, IconTrendingUp } from "@tabler/icons-react"
 
 import { Badge } from "@/components/ui/badge"
 import {
